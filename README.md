@@ -6,7 +6,7 @@ To solve **Problem 1**, we followed the following step:
     * Private fields for these properties:  
       * id: int  
       * balance: decimal   
-   The source code shown in the following figure:
+   The source code shown in the following figure:  
    ![The source code](https://i.imgur.com/V7lQYue.png)
     * Public fields for these properties:  
       * Id: int
